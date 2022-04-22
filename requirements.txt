@@ -187,7 +187,7 @@ PyMySQL==0.8.0
 pyodbc==4.0.17
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyserial==3.4
 PySocks==1.6.8
 pytesseract==0.2.0
