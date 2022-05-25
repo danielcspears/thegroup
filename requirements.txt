@@ -180,7 +180,7 @@ PyDispatcher==2.0.5
 pyflakes==1.6.0
 pygeocoder==1.2.5
 Pygments==2.2.0
-PyJWT==1.6.1
+PyJWT==2.4.0
 pylint==1.8.4
 Pympler==0.5
 PyMySQL==0.8.0
